@@ -7,7 +7,7 @@ const exten = ['.com', '.es', '.net', '.org', '.io']
 for (let i in noun) {
     for (let j in adj) {
         for (let k in exten) {
-            console.log('for in', noun[i] + adj[j] + exten[k])
+
         }
     }
 }
